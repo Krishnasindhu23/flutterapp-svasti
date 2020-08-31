@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863495696791",
+    "firebase_url": "https://chinna-d49f8.firebaseio.com",
+    "project_id": "chinna-d49f8",
+    "storage_bucket": "chinna-d49f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863495696791:android:31527d7e5eed07be5194d2",
+        "android_client_info": {
+          "package_name": "com.example.sindhuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863495696791-q4b37pqqt756oakcvuhtvsalqcdqp85f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFU0NZBXCNm3B1fHZzBlR_b9kh9BSwi6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863495696791-q4b37pqqt756oakcvuhtvsalqcdqp85f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
